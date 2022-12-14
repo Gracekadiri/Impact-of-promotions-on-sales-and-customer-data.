@@ -1,3 +1,2 @@
-# Kadiri
+# Impact of Promotions on Sales and Customer Data.
 
-this is my first repo
